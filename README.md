@@ -1,6 +1,6 @@
 <div style="border-radius:16px;">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=808080&descAlign=75&descAlignY=54&animation=fadeIn&v=7" style="border-radius:16px 16px 0 0;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=B0B0B0&descAlign=75&descAlignY=54&animation=fadeIn&v=8" style="border-radius:16px 16px 0 0;" />
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=0d1117&border=30363d&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
 </div>
 
 <br/>
