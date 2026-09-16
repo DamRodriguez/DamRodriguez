@@ -81,9 +81,9 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<a href="https://damrod.dev"><img src="https://img.shields.io/badge/Portfolio-383838?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Portfolio" /></a>
-<a href="mailto:damrod1999@gmail.com"><img src="https://img.shields.io/badge/Email-383838?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/damianagustinrodriguez"><img src="https://img.shields.io/badge/LinkedIn-383838?style=for-the-badge&labelColor=0F0F0F&v=4" alt="LinkedIn" /></a>
+<a href="https://damrod.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Portfolio" /></a>
+<a href="mailto:damrod1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/damianagustinrodriguez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0F0F0F&v=4" alt="LinkedIn" /></a>
 
 </div>
 
