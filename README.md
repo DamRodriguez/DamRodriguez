@@ -91,6 +91,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=300&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=250&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
 
 </div>
