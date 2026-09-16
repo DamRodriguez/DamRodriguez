@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=404040&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=404040&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=404040&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
 </div>
 
 <br/>
@@ -74,7 +74,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=404040&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
 </div>
 
 <br/>
