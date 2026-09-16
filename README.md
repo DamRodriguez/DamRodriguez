@@ -1,8 +1,6 @@
-<!-- <div style="background-color:#242424; padding:0px; border-radius:16px;"> -->
+<div style="border-radius:16px;">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=808080&descAlign=75&descAlignY=54&animation=fadeIn&v=7" style="border-radius:16px 16px 0 0;" />
-
-<div style="padding:24px;">
 
 <div align="center">
 
@@ -13,7 +11,7 @@
 </div>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E2E2E&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
 </div>
 
 <br/>
@@ -32,7 +30,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E2E2E&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
 </div>
 
 <br/>
@@ -58,7 +56,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E2E2E&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
 </div>
 
 <br/>
@@ -76,7 +74,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E2E2E&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=383838&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
 </div>
 
 <br/>
