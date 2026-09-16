@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=161b22" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=161b22" alt="JavaScript" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=161b22" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=161b22" alt="HTML" />
