@@ -1,91 +1,91 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,30363d,8b949e&height=250&section=header&text=Damián%20Rodríguez&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,30363d&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=E6E6E6&animation=fadeIn&fontAlignY=40" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend%20Developer;Ubicado%20en%20Buenos%20Aires%2C%20Argentina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=E6E6E6&center=true&vCenter=true&width=600&lines=Frontend%20Developer;Ubicado%20en%20Buenos%20Aires%2C%20Argentina;Construyendo%20interfaces%20pulidas)](https://git.io/typing-svg)
 
-<br />
+<br/>
 
 </div>
 
-```json
-{
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=420&text=Perfil&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="PERFIL" />
+</div>
+
+<br/>
+
+<pre style="background:#0d1117; color:#e6edf3; padding:20px 24px; border-radius:16px; border:1px solid #30363d; display:block; font-family:'Fira Code', monospace; font-size:14px; line-height:1.6; box-shadow: 0 8px 32px rgba(0,0,0,0.45); margin-left:0;">
+<code>{
   "name": "Damián Rodríguez",
   "role": "Frontend Developer",
   "location": "Buenos Aires, Argentina",
   "experience": "2+ años",
   "philosophy": "Construir interfaces a medida, únicas y pulidas hasta el último detalle",
   "coreTechs": ["React", "Next.js", "TypeScript", "React Native", "Tailwind CSS", "GSAP", "Framer Motion"]
-}
-```
+}</code>
+</pre>
 
----
+<br/>
 
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=300&text=STACK&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="STACK" />
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="STACK" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-161b22?style=for-the-badge&logo=react&logoColor=ffffff" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS" />
-  <img src="https://img.shields.io/badge/GSAP-161b22?style=for-the-badge&logo=greensock&logoColor=ffffff" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Framer_Motion-161b22?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Framer Motion" />
-</div>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=330&text=GITHUB&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="GITHUB" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=0d1117&border=00000000&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=280&text=CONECTEMOS&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="CONECTEMOS" />
-</div>
-
-<br />
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://damrod.dev)
-[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:damrod1999@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/damianagustinrodriguez)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DamRodriguez)
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" alt="React" />
+<img src="https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" alt="React Native" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=161b22" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=161b22" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=161b22" alt="JavaScript" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=161b22" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=161b22" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=161b22" alt="CSS" />
+<img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02&labelColor=161b22" alt="GSAP" />
+<img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=161b22" alt="Framer Motion" />
 
 </div>
 
-<br />
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,30363d,8b949e&height=100&section=footer" />
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="GITHUB" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=0d1117&border=30363d&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=300&text=Conectemos&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="CONECTEMOS" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=4285F4&labelColor=161b22)](https://damrod.dev)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:damrod1999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/damianagustinrodriguez)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/DamRodriguez)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,30363d,8b949e&height=100&section=footer" />
