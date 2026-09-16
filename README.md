@@ -31,26 +31,19 @@ Con más de **2 años de experiencia**, me dedico a construir interfaces y produ
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DamRodriguez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamRodriguez&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Top Languages" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=DamRodriguez&theme=darkhub&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <br />
 
 <div align="center">
-
   <img height="165" src="https://streak-stats.demolab.com/?user=DamRodriguez&theme=dark&background=0d1117&border=00000000&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-
 </div>
 
 <br />
 
 <div align="center">
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DamRodriguez&bg_color=0d1117&color=ffffff&line=8b949e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
+  <img width="100%" src="https://metrics.lecoq.io/DamRodriguez?template=classic&base=header,activity,community,repositories&config.timezone=America%2FArgentina%2FBuenos_Aires&theme=dark" alt="GitHub Metrics" />
 </div>
 
 ---
