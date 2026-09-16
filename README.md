@@ -24,7 +24,7 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=300&text=TECH%20STACK&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="TECH STACK" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=300&text=STACK&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="STACK" />
 </div>
 
 <br />
@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=330&text=GITHUB%20ACTIVITY&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="GITHUB ACTIVITY" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=330&text=GITHUB&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="GITHUB" />
 </div>
 
 <br />
@@ -79,9 +79,9 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://damrod.dev) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://damrod.dev)
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:damrod1999@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/damianagustinrodriguez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/damianagustinrodriguez)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DamRodriguez)
 
 </div>
