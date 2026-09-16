@@ -1,6 +1,6 @@
-<div style="background-color:#242424; padding:0px; border-radius:16px;">
+<!-- <div style="background-color:#242424; padding:0px; border-radius:16px;"> -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=808080&descAlign=75&descAlignY=54&animation=fadeIn&v=7" style="border-radius:16px 16px 0 0;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=808080&descAlign=75&descAlignY=54&animation=fadeIn&v=7" style="border-radius:16px 16px 0 0;" />
 
 <div style="padding:24px;">
 
@@ -93,6 +93,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=150&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=150&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
 
 </div>
