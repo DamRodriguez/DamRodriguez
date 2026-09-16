@@ -87,4 +87,12 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/DamRodriguez/DamRodriguez">
+    <img src="https://komarev.com/ghpvc/?username=DamRodriguez&color=161b22&label=VISITAS+DEL+PERFIL&style=for-the-badge&badge_color=0d1117" alt="Visitas del perfil" />
+  </a>
+</div>
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,30363d,8b949e&height=100&section=footer" />
