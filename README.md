@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d,30363d,8b949e&height=200&section=header&text=Damian%20Rodriguez&fontSize=50&fontColor=fff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d,30363d,8b949e&height=200&section=header&text=Damián%20Rodríguez&fontSize=50&fontColor=fff&animation=fadeIn" />
 
 <div align="center">
 
