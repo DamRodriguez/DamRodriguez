@@ -28,22 +28,16 @@ Con más de **2 años de experiencia**, me dedico a construir interfaces y produ
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<h3 align="center">📈 GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamRodriguez&theme=darkhub&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img width="100%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=DamRodriguez&theme=dark&background=0d1117&border=00000000&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://metrics.lecoq.io/DamRodriguez?template=classic&base=header,activity,community,repositories&config.timezone=America%2FArgentina%2FBuenos_Aires&theme=dark" alt="GitHub Metrics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=0d1117&border=00000000&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 ---
