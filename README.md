@@ -1,16 +1,33 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,30363d,8b949e&height=200&section=header&text=Damián%20Rodríguez&fontSize=50&fontColor=fff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,30363d,8b949e&height=250&section=header&text=Damián%20Rodríguez&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=40" />
 
 <div align="center">
 
-### Frontend Developer | Buenos Aires, Argentina
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend%20Developer;Ubicado%20en%20Buenos%20Aires%2C%20Argentina)](https://git.io/typing-svg)
 
-Con más de **2 años de experiencia**, me dedico a construir interfaces y productos a medida, únicos, con resultados llamativos y pulidos hasta el más mínimo detalle.
+<br />
 
 </div>
 
+```json
+{
+  "name": "Damián Rodríguez",
+  "role": "Frontend Developer",
+  "location": "Buenos Aires, Argentina",
+  "experience": "2+ años",
+  "philosophy": "Construir interfaces a medida, únicas y pulidas hasta el último detalle",
+  "coreTechs": ["React", "Next.js", "TypeScript", "React Native", "Tailwind CSS", "GSAP", "Framer Motion"]
+}
+```
+
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=300&text=TECH%20STACK&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="TECH STACK" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
@@ -26,9 +43,17 @@ Con más de **2 años de experiencia**, me dedico a construir interfaces y produ
   <img src="https://img.shields.io/badge/Framer_Motion-161b22?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Framer Motion" />
 </div>
 
+<br />
+
 ---
 
-<h3 align="center">📈 GitHub Activity</h3>
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=330&text=GITHUB%20ACTIVITY&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="GITHUB ACTIVITY" />
+</div>
+
+<br />
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -40,9 +65,17 @@ Con más de **2 años de experiencia**, me dedico a construir interfaces y produ
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=0d1117&border=00000000&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
+<br />
+
 ---
 
-<h3 align="center">📫 Conectemos</h3>
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=161b22,30363d,8b949e&height=45&width=280&text=CONECTEMOS&fontSize=18&fontColor=0d1117&fontAlignY=50" alt="CONECTEMOS" />
+</div>
+
+<br />
 
 <div align="center">
 
