@@ -79,11 +79,11 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=4285F4&labelColor=161b22)](https://damrod.dev)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:damrod1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22&v=1)](https://www.linkedin.com/in/damianagustinrodriguez)
+<a href="https://damrod.dev"><img src="https://img.shields.io/badge/Portfolio-383838?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Portfolio" /></a>
+<a href="mailto:damrod1999@gmail.com"><img src="https://img.shields.io/badge/Email-383838?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/damianagustinrodriguez"><img src="https://img.shields.io/badge/LinkedIn-383838?style=for-the-badge&labelColor=0F0F0F&v=4" alt="LinkedIn" /></a>
 
 </div>
 
