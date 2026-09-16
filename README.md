@@ -1,6 +1,6 @@
 <div style="border-radius:16px;">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=300&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=B0B0B0&descAlign=75&descAlignY=54&animation=fadeIn&v=8" style="border-radius:16px 16px 0 0;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40404080&height=300&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=Frontend%20Developer&descSize=18&descColor=B0B0B0&descAlign=75&descAlignY=54&animation=fadeIn&v=8" style="border-radius:16px 16px 0 0;" />
 
 <div align="center">
 
@@ -91,6 +91,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=250&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40404080&height=250&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
 
 </div>
