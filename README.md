@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,30363d&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=E6E6E6&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1f1f1f,3d3d3d&height=240&section=header&text=Damián%20Rodríguez&fontSize=68&fontColor=F2F2F2&animation=fadeIn&fontAlignY=40&v=2" />
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=420&text=Perfil&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="PERFIL" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=000000,1f1f1f,3d3d3d&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=2" alt="PERFIL" />
 </div>
 
 <br/>
@@ -28,7 +28,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="STACK" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=000000,1f1f1f,3d3d3d&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=2" alt="STACK" />
 </div>
 
 <br/>
@@ -54,7 +54,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="GITHUB" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=000000,1f1f1f,3d3d3d&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=2" alt="GITHUB" />
 </div>
 
 <br/>
@@ -72,7 +72,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d1117,161b22,30363d&height=48&width=300&text=Conectemos&fontSize=22&fontColor=E6E6E6&fontAlignY=50" alt="CONECTEMOS" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=000000,1f1f1f,3d3d3d&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=2" alt="CONECTEMOS" />
 </div>
 
 <br/>
@@ -87,4 +87,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,30363d,8b949e&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1f1f1f,3d3d3d&height=100&section=footer&v=2" />
