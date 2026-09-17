@@ -64,32 +64,24 @@
 <table width="100%" cellpadding="12" cellspacing="8">
   <tr>
     <td align="center" valign="top" width="25%" bgcolor="#262626">
-      <a href="https://www.loppezinmobiliaria.com/" style="color:#F2F2F2; text-decoration:none;">
-        <img src="./images/projects/lopez-logo.webp" alt="Logo de Lopez Propiedades" width="100%" /><br/>
-        <font color="#F2F2F2"><strong>Lopez Propiedades</strong><br/>
-        <sub>Plataforma web inmobiliaria</sub></font>
-      </a>
+      <a href="https://www.loppezinmobiliaria.com/"><img src="./images/projects/lopez-logo.webp" alt="Logo de Lopez Propiedades" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Lopez Propiedades</strong><br/>
+      <sub>Plataforma web inmobiliaria</sub></font>
     </td>
     <td align="center" valign="top" width="25%" bgcolor="#262626">
-      <a href="https://github.com/DamRodriguez/spotify-mobile" style="color:#F2F2F2; text-decoration:none;">
-        <img src="./images/projects/spotify-logo.webp" alt="Logo de Spotify Mobile" width="100%" /><br/>
-        <font color="#F2F2F2"><strong>Spotify Mobile</strong><br/>
-        <sub>Clón móvil de Spotify</sub></font>
-      </a>
+      <a href="https://github.com/DamRodriguez/spotify-mobile"><img src="./images/projects/spotify-logo.webp" alt="Logo de Spotify Mobile" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Spotify Mobile</strong><br/>
+      <sub>Clón móvil de Spotify</sub></font>
     </td>
     <td align="center" valign="top" width="25%" bgcolor="#262626">
-      <a href="https://alfombrastauro.com/" style="color:#F2F2F2; text-decoration:none;">
-        <img src="./images/projects/tauro-logo.webp" alt="Logo de Alfombras Tauro" width="100%" /><br/>
-        <font color="#F2F2F2"><strong>Alfombras Tauro</strong><br/>
-        <sub>Plataforma web corporativa</sub></font>
-      </a>
+      <a href="https://alfombrastauro.com/"><img src="./images/projects/tauro-logo.webp" alt="Logo de Alfombras Tauro" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Alfombras Tauro</strong><br/>
+      <sub>Plataforma web corporativa</sub></font>
     </td>
     <td align="center" valign="top" width="25%" bgcolor="#262626">
-      <a href="https://vanicracia.com/" style="color:#F2F2F2; text-decoration:none;">
-        <img src="./images/projects/vanicracia-logo.webp" alt="Logo de Vanicracia" width="100%" /><br/>
-        <font color="#F2F2F2"><strong>Vanicracia</strong><br/>
-        <sub>E-commerce de astrología</sub></font>
-      </a>
+      <a href="https://vanicracia.com/"><img src="./images/projects/vanicracia-logo.webp" alt="Logo de Vanicracia" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Vanicracia</strong><br/>
+      <sub>E-commerce de astrología</sub></font>
     </td>
   </tr>
 </table>
