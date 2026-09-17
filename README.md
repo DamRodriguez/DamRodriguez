@@ -127,6 +127,21 @@
 
 </div>
 
+<br/>
+
+<div align="left" style="background:#000; border-radius:16px; padding:15px; display:flex; align-items:stretch; gap:20px;">
+  <div style="flex:1; min-width:0; display:flex; align-items:stretch;">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true" style="display:flex; width:100%;">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" width="100%" style="height:100%; object-fit:contain;" />
+    </a>
+  </div>
+  <div style="flex:1; min-width:0; display:flex; align-items:center; justify-content:center;">
+    <p align="center" style="width:100%; margin:0;">
+      <img src="./gif/dancing-cat.gif" alt="Dancing cat" width="100%" style="height:100%; object-fit:contain;" />
+    </p>
+  </div>
+</div>
+
 <br/><br/>
 
 </div>
