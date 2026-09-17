@@ -95,7 +95,7 @@
         <img src="./images/projects/vanicracia-logo.webp" alt="Logo de Vanicracia" width="100%" style="display:block; border-radius:12px 12px 0 0;" />
         <div style="padding:16px;">
           <strong>Vanicracia</strong><br/>
-          <sub>E-commerce orientado a la astrología</sub>
+          <sub>E-commerce de astrología</sub>
         </div>
       </a>
     </td>
