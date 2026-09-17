@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 <br/><br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
 </div>
 
 <br/>
@@ -56,7 +56,56 @@
 <br/><br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Proyectos%20destacados&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PROYECTOS DESTACADOS" />
+</div>
+
+<br/>
+
+<table style="border-collapse:separate; border-spacing:16px 0;">
+  <tr>
+    <td align="center" valign="top" width="25%" style="background:#ffffff10; padding:0; border-radius:16px; height:100%;">
+      <a href="https://www.loppezinmobiliaria.com/" style="color:inherit; text-decoration:none; display:block; height:100%;">
+        <img src="./images/projects/lopez-logo.webp" alt="Logo de Lopez Propiedades" width="100%" style="display:block; border-radius:12px 12px 0 0;" />
+        <div style="padding:16px;">
+          <strong>Lopez Propiedades</strong><br/>
+          <sub>Plataforma web inmobiliaria</sub>
+        </div>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%" style="background:#ffffff10; padding:0; border-radius:16px; height:100%;">
+      <a href="https://github.com/DamRodriguez/spotify-mobile" style="color:inherit; text-decoration:none; display:block; height:100%;">
+        <img src="./images/projects/spotify-logo.webp" alt="Logo de Spotify Mobile" width="100%" style="display:block; border-radius:12px 12px 0 0;" />
+        <div style="padding:16px;">
+          <strong>Spotify Mobile</strong><br/>
+          <sub>Clón móvil de Spotify</sub>
+        </div>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%" style="background:#ffffff10; padding:0; border-radius:16px; height:100%;">
+      <a href="https://alfombrastauro.com/" style="color:inherit; text-decoration:none; display:block; height:100%;">
+        <img src="./images/projects/tauro-logo.webp" alt="Logo de Alfombras Tauro" width="100%" style="display:block; border-radius:12px 12px 0 0;" />
+        <div style="padding:16px;">
+          <strong>Alfombras Tauro</strong><br/>
+          <sub>Plataforma web corporativa</sub>
+        </div>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%" style="background:#ffffff10; padding:0; border-radius:16px; height:100%;">
+      <a href="https://vanicracia.com/" style="color:inherit; text-decoration:none; display:block; height:100%;">
+        <img src="./images/projects/vanicracia-logo.webp" alt="Logo de Vanicracia" width="100%" style="display:block; border-radius:12px 12px 0 0;" />
+        <div style="padding:16px;">
+          <strong>Vanicracia</strong><br/>
+          <sub>E-commerce orientado a la astrología</sub>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
 </div>
 
 <br/>
@@ -74,7 +123,7 @@
 <br/><br/>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
 </div>
 
 <br/>
@@ -91,6 +140,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40404080&height=250&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40404080&height=200&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
 
 </div>
