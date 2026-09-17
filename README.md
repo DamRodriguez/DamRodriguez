@@ -68,7 +68,7 @@
 
 <br/>
 
-<table width="100%" cellpadding="12" cellspacing="8">
+<table width="100%" cellpadding="12" cellspacing="8" border="0" frame="void" rules="none">
   <tr>
     <td align="center" valign="top" width="25%" bgcolor="#262626">
       <a href="https://www.loppezinmobiliaria.com/"><img src="./images/projects/lopez-logo.webp" alt="Logo de Lopez Propiedades" width="100%" /></a><br/>
@@ -129,7 +129,7 @@
 
 <br/>
 
-<table width="100%" cellpadding="15" cellspacing="20" bgcolor="#000000">
+<table width="100%" cellpadding="15" cellspacing="20" border="0" frame="void" rules="none" bgcolor="#000000">
   <tr>
     <td align="center" valign="middle" width="50%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true">
