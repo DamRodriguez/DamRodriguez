@@ -51,6 +51,13 @@
 <img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02&labelColor=161b22" alt="GSAP" />
 <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=161b22" alt="Framer Motion" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=161b22" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=coffeescript&logoColor=ED8B00&labelColor=161b22" alt="Java" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E&labelColor=161b22" alt="Supabase" />
+
 </div>
 
 <br/><br/>
