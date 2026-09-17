@@ -23,7 +23,7 @@
   "location": "Buenos Aires, Argentina",
   "experience": "2+ años",
   "philosophy": "Construir interfaces a medida, únicas y pulidas hasta el último detalle",
-  "coreTechs": ["React", "Next.js", "TypeScript", "React Native", "Tailwind CSS", "GSAP", "Framer Motion"]
+  "mainTechs": ["React", "Next.js", "TypeScript", "React Native"]
 }</code>
 </pre>
 
