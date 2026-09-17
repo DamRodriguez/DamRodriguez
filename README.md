@@ -129,18 +129,10 @@
 
 <br/>
 
-<table width="100%" cellpadding="15" cellspacing="20" border="0" frame="void" rules="none" bgcolor="#000000">
-  <tr>
-    <td align="center" valign="middle" width="50%">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" width="100%" />
-      </a>
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <img src="./gif/dancing-cat.gif" alt="Dancing cat" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" width="48%" /></a>&nbsp;
+  <img src="./gif/dancing-cat.gif" alt="Dancing cat" width="48%" />
+</div>
 
 <br/>
 
