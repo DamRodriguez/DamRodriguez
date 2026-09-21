@@ -68,7 +68,8 @@
 
 <br/>
 
-<table width="100%" cellpadding="8" cellspacing="8" border="0" frame="void" rules="none">
+<div style="overflow-x:auto; width:100%;">
+<table width="100%" cellpadding="8" cellspacing="8" border="0" frame="void" rules="none" style="min-width:400px;">
   <tr>
     <td align="center" valign="top" width="25%" border="0">
       <a href="https://www.loppezinmobiliaria.com/"><img src="./images/projects/lopez-logo.webp" alt="Logo de Lopez Propiedades" width="100%" /></a><br/>
@@ -88,6 +89,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <br/><br/>
 
