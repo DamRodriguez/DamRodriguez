@@ -127,9 +127,9 @@
 
 <br/><br/>
 
-<div align="center" style="display:flex; justify-content:center; align-items:flex-end; gap:1%; flex-wrap:nowrap; overflow-x:auto;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true" style="flex:0 0 48%;"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" width="100%" /></a>
-  <img src="./gif/dancing-cat.gif" alt="Dancing cat" width="48%" style="flex:0 0 48%; align-self:flex-end; margin-bottom:10px;" />
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" width="48%" align="middle" /></a>&nbsp;
+  <img src="./gif/dancing-cat.gif" alt="Dancing cat" width="48%" align="middle" />
 </div>
 
 <br/>
